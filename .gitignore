@@ -1,0 +1,5 @@
+.idea
+dist
+join-iterables.iml
+join_iterables.egg-info/
+**/__pycache__
