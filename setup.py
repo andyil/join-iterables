@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-V = '0.01'
+V = '0.1'
 
 setup(
     name = 'join-iterables',
@@ -10,7 +10,7 @@ setup(
     long_description_content_type='text/x-rst',
     version = V,
     license='MIT',
-    description='Joins iterables in a streaming fashion and respects repetitions',
+    description='Joins iterables in a streaming fashion while respects repetitions',
     url = 'https://github.com/andyil/join-iterables',
     download_url = f'https://github.com/andyil/join-iterables/archive/{V}.tar.gz',
     keywords = ['python', 'data', 'iterable', 'iterables', 'itertools', 'more-itertools', 'join'],

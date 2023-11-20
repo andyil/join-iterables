@@ -8,7 +8,8 @@ def eager_group(it, key=None):
 
 
 def mylog(msg):
-    print(f'LOG {msg}')
+    #print(f'LOG {msg}')
+    pass
 
 
 def generic_join(i1, i2, join_type='outer', key=None):
