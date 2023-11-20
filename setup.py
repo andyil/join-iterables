@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-V = '0.1'
+V = '0.2'
 
 setup(
     name = 'join-iterables',
